@@ -10,6 +10,8 @@ The tokenizated strings are compared between assignments
 
 Using 3-grams method we detect and seperate the strings to find commonality within the code intermediates
 
+More information is fully documented in the SRS
+
 # What was done
 Senior Capstone Group Project 
 
